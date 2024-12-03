@@ -74,7 +74,8 @@ Performance curves were plotted for different thresholds to optimize the anomaly
 ---
 
 ## Visualizations
-![Precision, Recall, F1 Score vs Threshold](results/precision_recall_f1_threshold.png)
+![image](https://github.com/user-attachments/assets/7d718776-9c5d-4a58-89b5-27a9c6219831)
+
 
 ---
 
