@@ -63,13 +63,12 @@ Performance curves were plotted for different thresholds to optimize the anomaly
 
 ## Results
 - **Precision-Recall-F1 vs. Threshold**:
-  - A plot showcasing the trade-offs at different thresholds for both AE and VAE.
+  - A plot showcasing the trade-offs at different thresholds for VAE.
   
 - Final Results:
   | Model    | Precision | Recall | F1 Score |
   |----------|-----------|--------|----------|
-  | Autoencoder | 0.91      | 0.88   | 0.89     |
-  | VAE        | 0.93      | 0.90   | 0.91     |
+  | VAE        | 0.711      | 0.727  | 0.719 |
 
 ---
 
