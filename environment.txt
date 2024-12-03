@@ -1,0 +1,15 @@
+jupyter
+matplotlib
+matplotlib.image
+matplotlib.pyplot
+numpy
+pandas
+scikit-learn
+seaborn
+sklearn.metrics
+sklearn.model_selection
+sklearn.preprocessing
+tensorflow
+torch
+torch.optim
+torch.utils.data
